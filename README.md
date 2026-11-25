@@ -76,6 +76,11 @@ We use this categorical data encoding technique when the features are nominal(do
 
 <img width="712" height="390" alt="image" src="https://github.com/user-attachments/assets/306ea2eb-e478-4e75-b97e-85c72b2b5e2b" />
 
+<img width="827" height="661" alt="image" src="https://github.com/user-attachments/assets/2685da22-ca52-4d97-856b-8f9a7f9932d6" />
+
+<img width="972" height="367" alt="image" src="https://github.com/user-attachments/assets/ece0c45e-4266-4228-b340-4cdc9fe21766" />
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
